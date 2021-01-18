@@ -25,7 +25,7 @@
   run ```npm install``` to install the dependencies. The project was build with TDD, to run the test input ```npm run test``` and to be prompted to enter the details to build your team, type ```node index.js``` in the console.
 
   ## Walkthrough
-  [WalkThrough Video]()
+  [WalkThrough Video](https://youtu.be/HWYFUU09pnw)
   
   ## Technologies
   - JavaScript
@@ -57,7 +57,7 @@ This project is an open source, please feel free to contribute
   ## Tests:
 
   Jest was used for the testing.
-  ![]()
+  ![https://github.com/adokoye/team-profile-generator/blob/main/Screen%20Shot%202021-01-17%20at%2010.51.03%20PM.png]
 
   
   ## Questions:
