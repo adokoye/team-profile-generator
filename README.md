@@ -5,7 +5,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-    This project runs in node and presents you with a series of questions to build a team page that can consist of Managers,Engineers and Interns. Each member will haveh their names, roles, Employee ID and their email displayed on this page. Also, the Manager will have an office number, the Engineer will have a link to their github profile and the Intern will have their alma mater on display.
+    This project runs in node and presents you with a series of questions to build a team page that can consist of Managers,Engineers and Interns. Each member will have their names, roles, Employee ID and their email displayed on this page. Also, the Manager will have an office number, the Engineer will have a link to their github profile and the Intern will have their alma mater on display.
 
 
   # Table of Contents
