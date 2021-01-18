@@ -1,0 +1,35 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamWills89/team-profile-generator.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "Cameron Wills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamWills89/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/CamWills89/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
