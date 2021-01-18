@@ -57,7 +57,9 @@ This project is an open source, please feel free to contribute
   ## Tests:
 
   Jest was used for the testing.
-  ![https://github.com/adokoye/team-profile-generator/blob/main/Screen%20Shot%202021-01-17%20at%2010.51.03%20PM.png]
+  
+  
+  ![Screenshot](https://github.com/adokoye/team-profile-generator/blob/main/Screen%20Shot%202021-01-17%20at%2010.51.03%20PM.png)
 
   
   ## Questions:
